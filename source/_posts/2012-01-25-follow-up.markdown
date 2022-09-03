@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Follow up"
+date: 2012-01-25 15:14
+comments: true
+categories: [updates, optional readings]
+---
+
+Following up on the discussion today about Physicalism, I thought I'd point you to a paper that does a nice job at spelling out what the possible views are: 
+
+> David Chalmers, "Consciousness and its place in Nature". Reprinted in: Chalmers, D. (ed.), [*Philosophy of Mind: Classical and Contemporary Readings*](http://www.amazon.com/Philosophy-Mind-Classical-Contemporary-Readings/dp/019514581X), New York: OUP, 2002. 
+ 
+See in particular the section entitled 'Type B Materialism'. (I've posted an electronic version of the paper in the [Dropbox](http://db.tt/IreiS75o) folder.)

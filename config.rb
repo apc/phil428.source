@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/phil428/"
+http_images_path = "/phil428/images"
+http_fonts_path = "/phil428/fonts"
+css_dir = "public/phil428/stylesheets"
 
 # Local development paths
 sass_dir = "sass"

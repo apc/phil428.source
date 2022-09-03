@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Welcome"
+date: 2012-01-10 20:15
+comments: true
+categories: 
+---
+
+This is the website for PHIL 428. Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking this website regularly. You can follow the <a href="http://twitter.com/Phil_428">Twitter feed</a>, if you are on <a href="http://twitter.com">Twitter</a>. Otherwise, you can either subscribe to the <a href="http://perezcarballo.org/phil428/atom.xml">RSS feed</a> or simply come <a href="index.html">here</a> regularly to stay up to date. 

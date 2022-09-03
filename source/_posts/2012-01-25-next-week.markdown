@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Next week"
+date: 2012-01-25 15:29
+comments: false
+categories: [updates, announcements]
+---
+
+Next week we will finish our discussion about the Private Language Argument. After that, we will move on to talk about Hare's *The Language of Morals*. I will specify the relevant sections in the next day or two. In the meantime, I wanted to give you some suggestions for how to prepare for our next meeting. 
+
+<!-- more -->
+
+Remember that we were considering two different candidates for the conclusion of the Private Language Argument. Wittgenstein is arguing against the possibility of a language in which "The individual words [...] are to refer to what can only be known to the person speaking; to his immediate private sensations" (&sect;243). But this can be interpreted in one of two ways: 
+
+1. Words (or expressions) cannot refer to these 'private sensations'.
+2. No word can be such that its meaning is exhausted by the 'private sensations' it refers to. 
+
+Please think about the following two questions. Your answers to these will form the basis for our discussion next Monday.
+
++ Can we argue from (1) to the conclusion that *there are no* private sensations?
++ What reasons does Wittgenstein provide for thinking that (2) is true? Do they also support the claim that (1) is true? 
+
+In thinking about these questions, you should grant Wittgenstein the following claim.[^fn1]
+
+> For a word to have meaning, there must be publicly available standards to determine when utterances of sentences involving are correct.
+
+
+Do not hesitate to contact me if you have any questions. And remember that I hold office hours on Mondays from 1-3. 
+
+[^fn1]: See the section titled 'Wittgenstein on Meaning, Understanding, and Following a Rule' in Soames, *Philosophical Analysis in the Twentieth Century*, Vol. 2 for discussion of this thesis in the context of the discussion of the rule-following considerations.
